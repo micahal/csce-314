@@ -1,0 +1,20 @@
+Bank Account balances before transactions
+1001: $500.0
+1002: $1000.0
+1003: $50.0
+1004: $700.0
+Attempting to deposit $100.0 to 1001
+Deposit Transaction Successful
+Attempting to withdraw $500.0 from 1003
+Transaction failed: Not enough funds for withdrawal.
+Attempting to transfer $200.0 from 1002 to 1003
+Transfer Transaction Successful
+Attempting $50.0 deadlock with 1001 and 1002
+Deadlock Transaction Successful
+Attempting $30.0 race with 1003 and 1001
+Race Transaction Successful
+Bank account balances after transactions
+1001: $660.0
+1002: $800.0
+1003: $190.0
+1004: $700.0

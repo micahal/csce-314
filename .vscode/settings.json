@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": [
+        "hw5",
+        "fridays",
+        "finalProject/src/app",
+        "day2",
+        "day1",
+        "finalProject/src"
+    ],
+    "java.project.referencedLibraries": [
+        "hw5/lib/gson-2.12.1.jar",
+        "finalProject/lib/javafx-swt.jar",
+        "finalProject/lib/javafx.base.jar",
+        "finalProject/lib/javafx.controls.jar",
+        "finalProject/lib/javafx.fxml.jar",
+        "finalProject/lib/javafx.graphics.jar",
+        "finalProject/lib/javafx.media.jar",
+        "finalProject/lib/javafx.swing.jar",
+        "finalProject/lib/javafx.web.jar"
+    ]
+}

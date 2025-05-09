@@ -1,0 +1,4975 @@
+Player 1 
+Playing 9S
+Player 2 
+Playing 8D
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing 7S
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 8S
+Player 2 
+Playing 4D
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing TD
+Player 2 
+Playing 5S
+Player 1 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing 9D
+Player 2 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing QC
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing QH
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 9H
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 3D
+Player 2 
+Playing JD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 5C
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing 7C
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing TC
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 6S
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 9S
+Player 2 
+Playing 4H
+Player 1 wins war
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 7S
+Player 1 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing 8S
+Player 2 
+Playing 8H
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 4S
+Player 2 
+Playing QC
+Player 2 wins war
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 9H
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing QH
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 3D
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing JD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing JS
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 7C
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing 7H
+Player 2 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 5H
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing 9C
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing AS
+Player 2 
+Playing QC
+Player 2 wins war
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing 6D
+Player 2 
+Playing 8H
+Player 2 wins the round
+Player 1 17 cards
+Player 2 35 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing 5S
+Player 1 wins the round
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing 4D
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing KC
+Player 2 
+Playing 4S
+Player 1 wins war
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 21 cards
+Player 2 31 cards
+------------
+Player 1 
+Playing 3D
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 20 cards
+Player 2 32 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 21 cards
+Player 2 31 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing QH
+Player 1 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing JD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing 5C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 5S
+Player 2 
+Playing 7C
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 4C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 7H
+Player 1 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 4D
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing QC
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 3S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 8S
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing 9S
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 6C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing TC
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing 7D
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 6D
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 8H
+Player 1 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing 8C
+Player 2 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 3D
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing JD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 5H
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 5S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing 7C
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 4H
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 4D
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing QC
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 8S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 6D
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 4S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing 9S
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing TC
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing 7D
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 3D
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 6S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing 8C
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 5C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 5S
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 4C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 7H
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 4D
+Player 2 
+Playing JD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 3S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 8S
+Player 2 
+Playing 7C
+Player 1 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 6C
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing QC
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 6D
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 8H
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing 9S
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing TC
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 7D
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 3D
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 5H
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing 8C
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 5S
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 8S
+Player 2 
+Playing 4H
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 7C
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 4D
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing JD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 4S
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 6D
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing QC
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing 9S
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 6S
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing KH
+Player 2 
+Playing 4C
+Player 1 wins war
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 7H
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 5S
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing 8S
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing 8C
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 3S
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 4D
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 7C
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing JD
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 6C
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 6D
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 8H
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing TH
+Player 2 
+Playing AD
+Player 1 wins war
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 9S
+Player 1 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 5H
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 5S
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing JS
+Player 2 
+Playing 4D
+Player 1 wins war
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing 8S
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 4S
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing JD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 7C
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 6S
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 7H
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing AD
+Player 2 
+Playing 3S
+Player 2 wins war
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing JD
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 7C
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing TC
+Player 2 
+Playing 6C
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 7H
+Player 2 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 5S
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 7S
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 7D
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing KS
+Player 2 
+Playing QC
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 6D
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 3D
+Player 2 
+Playing 3S
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 2D
+Player 2 
+Playing KD
+Player 2 wins war
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 9S
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 6H
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing 7H
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 5H
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 7D
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 7C
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing 5C
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing 6D
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing TC
+Player 2 
+Playing 8C
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 4H
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing 3S
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing 5D
+Player 2 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing 8D
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 5S
+Player 2 
+Playing 8S
+Player 2 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing 3D
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing JD
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing QH
+Player 2 
+Playing 4S
+Player 1 wins war
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 7H
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 6S
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 7C
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 7D
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 6D
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing TC
+Player 2 
+Playing 6C
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing 3S
+Player 1 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 4C
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing KD
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing 4D
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing QC
+Player 2 
+Playing 8D
+Player 1 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing KS
+Player 2 
+Playing 5S
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing 8S
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing 3D
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 9S
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 6H
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing 7H
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 5H
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 7D
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 7C
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing 5C
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing 6D
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing TC
+Player 2 
+Playing 8C
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 4S
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing 8S
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing 3D
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 5D
+Player 2 
+Playing QD
+Player 2 wins war
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing 4D
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing QC
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 7H
+Player 1 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing KS
+Player 2 
+Playing 6S
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 5S
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 7C
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing 6D
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 6C
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing 8S
+Player 1 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing JS
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 3D
+Player 1 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing 4C
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 7D
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing 7S
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 3S
+Player 1 wins the round
+Player 1 36 cards
+Player 2 16 cards
+------------
+Player 1 
+Playing TC
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 36 cards
+Player 2 16 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 37 cards
+Player 2 15 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 36 cards
+Player 2 16 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing 5S
+Player 2 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 4D
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing QC
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing 6D
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing KS
+Player 2 
+Playing 5H
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 7D
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 7C
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing TC
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 4S
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 4H
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing 5S
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 8S
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing JC
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 4C
+Player 2 
+Playing 9H
+Player 2 wins war
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 6S
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing 7C
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 6C
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing 5S
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing 4D
+Player 2 
+Playing 8S
+Player 2 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing QC
+Player 2 
+Playing 4C
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing JS
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing 6H
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing KS
+Player 2 
+Playing 9H
+Player 1 wins the round
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing 3D
+Player 1 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 7H
+Player 1 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 7D
+Player 2 
+Playing 6D
+Player 1 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing 9D
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing TC
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 7S
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing 3S
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing 5S
+Player 1 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing 4D
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 7C
+Player 2 
+Playing 8S
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing JS
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing 6H
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing QC
+Player 2 
+Playing TC
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 4S
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing KS
+Player 2 
+Playing 4H
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 9H
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 3D
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 7D
+Player 2 
+Playing 7C
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing JH
+Player 2 
+Playing 6C
+Player 1 wins war
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing JS
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 6H
+Player 1 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing 4C
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 9H
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing 3D
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 5S
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing 7H
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 4D
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing JS
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 3S
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing QC
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing TC
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 5S
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing KS
+Player 2 
+Playing 4D
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing JS
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 6D
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 9D
+Player 2 
+Playing TC
+Player 2 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 7D
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing 4S
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 8S
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 4H
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 9C
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing 2D
+Player 2 wins the round
+Player 1 37 cards
+Player 2 15 cards
+------------
+Player 1 
+Playing 7C
+Player 2 
+Playing JS
+Player 2 wins the round
+Player 1 36 cards
+Player 2 16 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 37 cards
+Player 2 15 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 36 cards
+Player 2 16 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 6D
+Player 1 wins the round
+Player 1 37 cards
+Player 2 15 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 36 cards
+Player 2 16 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing 9D
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing TH
+Player 2 
+Playing 8S
+Player 1 wins war
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 9H
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 3D
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 7C
+Player 2 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing JS
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 6H
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing QC
+Player 2 
+Playing 9H
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 6S
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 5S
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing KS
+Player 2 
+Playing 3D
+Player 1 wins the round
+Player 1 39 cards
+Player 2 13 cards
+------------
+Player 1 
+Playing 4D
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 38 cards
+Player 2 14 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing 5C
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 6C
+Player 2 
+Playing 3S
+Player 1 wins war
+Player 1 43 cards
+Player 2 9 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 42 cards
+Player 2 10 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 43 cards
+Player 2 9 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 42 cards
+Player 2 10 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 43 cards
+Player 2 9 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 42 cards
+Player 2 10 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 5S
+Player 1 wins the round
+Player 1 43 cards
+Player 2 9 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 42 cards
+Player 2 10 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 4D
+Player 1 wins the round
+Player 1 43 cards
+Player 2 9 cards
+------------
+Player 1 
+Playing 6D
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 42 cards
+Player 2 10 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 43 cards
+Player 2 9 cards
+------------
+Player 1 
+Playing QD
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 42 cards
+Player 2 10 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing 4S
+Player 2 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 40 cards
+Player 2 12 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing 4H
+Player 1 wins the round
+Player 1 41 cards
+Player 2 11 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing KD
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 9D
+Player 2 
+Playing TD
+Player 2 wins war
+Player 1 36 cards
+Player 2 16 cards
+------------
+Player 1 
+Playing 8H
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 35 cards
+Player 2 17 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing 4S
+Player 2 wins the round
+Player 1 34 cards
+Player 2 18 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 9S
+Player 2 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 6D
+Player 1 wins the round
+Player 1 33 cards
+Player 2 19 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 9D
+Player 2 wins the round
+Player 1 32 cards
+Player 2 20 cards
+------------
+Player 1 
+Playing QC
+Player 2 
+Playing KC
+Player 2 wins the round
+Player 1 31 cards
+Player 2 21 cards
+------------
+Player 1 
+Playing 9H
+Player 2 
+Playing TC
+Player 2 wins the round
+Player 1 30 cards
+Player 2 22 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 8S
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 3H
+Player 2 
+Playing 9C
+Player 2 wins war
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 7C
+Player 2 
+Playing 8H
+Player 2 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 4S
+Player 1 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 8C
+Player 2 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing 9S
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 6H
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing 9D
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing QC
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 4C
+Player 2 
+Playing 3D
+Player 1 wins war
+Player 1 29 cards
+Player 2 23 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing 9C
+Player 2 wins the round
+Player 1 28 cards
+Player 2 24 cards
+------------
+Player 1 
+Playing TH
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 27 cards
+Player 2 25 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing 8D
+Player 2 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing 6S
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 7D
+Player 1 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 6D
+Player 2 
+Playing 3H
+Player 1 wins the round
+Player 1 26 cards
+Player 2 26 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing 8S
+Player 2 wins the round
+Player 1 25 cards
+Player 2 27 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 24 cards
+Player 2 28 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing 7C
+Player 2 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing 8H
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 5H
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing JC
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing 5C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing 8C
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 9S
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 5S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing AH
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 9D
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing 3C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 9H
+Player 2 
+Playing 9C
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 3D
+Player 2 
+Playing 8D
+Player 2 wins war
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing KH
+Player 2 
+Playing 7H
+Player 1 wins the round
+Player 1 19 cards
+Player 2 33 cards
+------------
+Player 1 
+Playing 7D
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing 6D
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 19 cards
+Player 2 33 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing 6S
+Player 2 wins the round
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 3S
+Player 1 wins the round
+Player 1 19 cards
+Player 2 33 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing 8S
+Player 2 wins the round
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 19 cards
+Player 2 33 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing 6C
+Player 1 wins the round
+Player 1 19 cards
+Player 2 33 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing 7C
+Player 2 wins the round
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 19 cards
+Player 2 33 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing 8H
+Player 2 wins the round
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 19 cards
+Player 2 33 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 18 cards
+Player 2 34 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing 4S
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing KH
+Player 2 
+Playing 6H
+Player 1 wins war
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing 9S
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 6D
+Player 2 
+Playing 5S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 2S
+Player 2 
+Playing TS
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 7S
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 3S
+Player 2 
+Playing 9D
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 8D
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing TH
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing 9C
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing TC
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing JH
+Player 2 
+Playing 4H
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing KC
+Player 2 
+Playing 4D
+Player 1 wins the round
+Player 1 23 cards
+Player 2 29 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing 3D
+Player 2 wins the round
+Player 1 22 cards
+Player 2 30 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 21 cards
+Player 2 31 cards
+------------
+Player 1 
+Playing QS
+Player 2 
+Playing QC
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing AH
+Player 2 
+Playing 6S
+Player 2 wins war
+Player 1 16 cards
+Player 2 36 cards
+------------
+Player 1 
+Playing 4C
+Player 2 
+Playing 5H
+Player 2 wins the round
+Player 1 15 cards
+Player 2 37 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing 8S
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 5S
+Player 2 
+Playing 7C
+Player 2 wins war
+Player 1 10 cards
+Player 2 42 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing AC
+Player 1 wins the round
+Player 1 11 cards
+Player 2 41 cards
+------------
+Player 1 
+Playing 7S
+Player 2 
+Playing 8H
+Player 2 wins the round
+Player 1 10 cards
+Player 2 42 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 11 cards
+Player 2 41 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 10 cards
+Player 2 42 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing 7H
+Player 1 wins the round
+Player 1 11 cards
+Player 2 41 cards
+------------
+Player 1 
+Playing 9C
+Player 2 
+Playing 9S
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 4D
+Player 2 
+Playing 9D
+Player 2 wins war
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 2H
+Player 1 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing AC
+Player 2 
+Playing TH
+Player 2 wins the round
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 6C
+Player 1 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing 5D
+Player 2 
+Playing TC
+Player 2 wins the round
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing AS
+Player 1 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing 7H
+Player 2 
+Playing 9H
+Player 2 wins the round
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 2D
+Player 1 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing 2H
+Player 2 
+Playing 3D
+Player 2 wins the round
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 4S
+Player 1 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing 6C
+Player 2 
+Playing KD
+Player 2 wins the round
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing JC
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing JS
+Player 2 
+Playing 3H
+Player 1 wins war
+Player 1 11 cards
+Player 2 41 cards
+------------
+Player 1 
+Playing 4S
+Player 2 
+Playing TD
+Player 2 wins the round
+Player 1 10 cards
+Player 2 42 cards
+------------
+Player 1 
+Playing 6S
+Player 2 
+Playing 7D
+Player 2 wins the round
+Player 1 9 cards
+Player 2 43 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 6H
+Player 1 wins the round
+Player 1 10 cards
+Player 2 42 cards
+------------
+Player 1 
+Playing 2D
+Player 2 
+Playing QC
+Player 2 wins the round
+Player 1 9 cards
+Player 2 43 cards
+------------
+Player 1 
+Playing AS
+Player 2 
+Playing QS
+Player 2 wins the round
+Player 1 8 cards
+Player 2 44 cards
+------------
+Player 1 
+Playing AH
+Player 2 
+Playing 4C
+Player 2 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 5H
+Player 1 wins the round
+Player 1 8 cards
+Player 2 44 cards
+------------
+Player 1 
+Playing 3H
+Player 2 
+Playing KS
+Player 2 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing JC
+Player 2 
+Playing 2C
+Player 1 wins the round
+Player 1 8 cards
+Player 2 44 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing AD
+Player 1 wins the round
+Player 1 9 cards
+Player 2 43 cards
+------------
+Player 1 
+Playing JD
+Player 2 
+Playing KH
+Player 2 wins the round
+Player 1 8 cards
+Player 2 44 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 8C
+Player 1 wins the round
+Player 1 9 cards
+Player 2 43 cards
+------------
+Player 1 
+Playing 6H
+Player 2 
+Playing 8S
+Player 2 wins the round
+Player 1 8 cards
+Player 2 44 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 7C
+Player 1 wins the round
+Player 1 9 cards
+Player 2 43 cards
+------------
+Player 1 
+Playing 5H
+Player 2 
+Playing 6D
+Player 2 wins the round
+Player 1 8 cards
+Player 2 44 cards
+------------
+Player 1 
+Playing JC
+Player 2 
+Playing 5C
+Player 1 wins the round
+Player 1 9 cards
+Player 2 43 cards
+------------
+Player 1 
+Playing 2C
+Player 2 
+Playing 5S
+Player 2 wins the round
+Player 1 8 cards
+Player 2 44 cards
+------------
+Player 1 
+Playing 3C
+Player 2 
+Playing 7S
+Player 2 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing AD
+Player 2 
+Playing 8H
+Player 2 wins the round
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 8D
+Player 1 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing 8C
+Player 2 
+Playing QD
+Player 2 wins the round
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 9S
+Player 1 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing 7C
+Player 2 
+Playing JH
+Player 2 wins the round
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing JC
+Player 2 
+Playing TS
+Player 1 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing 5C
+Player 2 
+Playing KC
+Player 2 wins the round
+Player 1 6 cards
+Player 2 46 cards
+------------
+Player 1 
+Playing JS
+Player 2 
+Playing 2S
+Player 1 wins the round
+Player 1 7 cards
+Player 2 45 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 4H
+Player 1 wins the round
+Player 1 8 cards
+Player 2 44 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 9C
+Player 1 wins the round
+Player 1 9 cards
+Player 2 43 cards
+------------
+Player 1 
+Playing 9S
+Player 2 
+Playing 9D
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 2S
+Player 2 
+Playing TH
+Player 2 wins war
+Player 1 4 cards
+Player 2 48 cards
+------------
+Player 1 
+Playing 8D
+Player 2 
+Playing 5D
+Player 1 wins the round
+Player 1 5 cards
+Player 2 47 cards
+------------
+Player 1 
+Playing 4H
+Player 2 
+Playing TC
+Player 2 wins the round
+Player 1 4 cards
+Player 2 48 cards
+------------
+Player 1 
+Playing QH
+Player 2 
+Playing 7H
+Player 1 wins the round
+Player 1 5 cards
+Player 2 47 cards
+------------
+Player 1 
+Playing 9C
+Player 2 
+Playing 9H
+We have a war
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 1 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 2 places a face down card 
+Player 1 
+Playing 7H
+Player 2 
+Playing KD
+Player 2 wins war
+Player 1 0 cards
+Player 2 52 cards
+------------
+Player 2 Wins the game!
